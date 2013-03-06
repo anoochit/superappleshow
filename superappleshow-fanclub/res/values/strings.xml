@@ -16,6 +16,10 @@
     <string name="app_button_youtube">Youtube SuperAppleShow</string>
     <string name="app_button_facebook">Facebook : FanAppleShow</string>    
     <string name="app_button_twitter">Twitter @superappleshow</string>
+    <string name="tab1">วิดีโอ</string>
+    <string name="tab2">สอนเล่น</string>
+    <string name="tab3">ทวิตเตอร์</string>
+    <string name="tab4">เกี่ยวกับ</string>
     
 
 </resources>

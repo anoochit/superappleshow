@@ -73,16 +73,16 @@ public class MainActivity extends SherlockFragmentActivity {
 			}
 		};
 
-		Tab tab = mActionBar.newTab().setText("วิดีโอ").setIcon(R.drawable.ic_video)
+		Tab tab = mActionBar.newTab().setText(R.string.tab1).setIcon(R.drawable.ic_video)
 				.setTabListener(tabListener);
 		mActionBar.addTab(tab);
-		tab = mActionBar.newTab().setText("สอนเล่นอุ๊ค").setIcon(R.drawable.ic_film)
+		tab = mActionBar.newTab().setText(R.string.tab2).setIcon(R.drawable.ic_film)
 				.setTabListener(tabListener);
 		mActionBar.addTab(tab);
-		tab = mActionBar.newTab().setText("ทวิตเตอร์").setIcon(R.drawable.ic_tweeter)
+		tab = mActionBar.newTab().setText(R.string.tab3).setIcon(R.drawable.ic_tweeter)
 				.setTabListener(tabListener);
 		mActionBar.addTab(tab);
-		tab = mActionBar.newTab().setText("เกี่ยวกับ").setIcon(R.drawable.ic_about)
+		tab = mActionBar.newTab().setText(R.string.tab4).setIcon(R.drawable.ic_about)
 				.setTabListener(tabListener);
 		mActionBar.addTab(tab);
 
