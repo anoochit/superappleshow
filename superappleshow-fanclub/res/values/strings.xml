@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SuperAppleShow</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_fragment_video">FragmentVideo</string>
+    <string name="title_activity_fragment_twitter">FragmentTwitter</string>
+    
+    <string name="menu_share">Share...</string>
+    <string name="text_share_subject">SuperAppleShow</string>
+    <string name="text_share_body">SuperAppleShow https://play.google.com/store/apps/details?id=</string>
+    <color name="gray">#555555</color>
+    <string name="app_description">ลิงค์วิดีโอจากช่อง Youtube ของ SuperAppleShow ให้เพิ่อนๆ ได้เรียนรู้วิธีการเล่น Ukulele และติดตามผลงานของพี่ Apple ผ่าน App นี้ได้ง่ายๆ อย่าลืมติดตามผลงานของพี่ Apple ได้ที่</string>
+    <string name="app_button_website">SuperAppleShow.com</string>
+    <string name="app_button_youtube">Youtube SuperAppleShow</string>
+    <string name="app_button_facebook">Facebook : FanAppleShow</string>    
+    <string name="app_button_twitter">Twitter @superappleshow</string>
+    
+
+</resources>
